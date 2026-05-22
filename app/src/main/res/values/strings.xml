@@ -9,27 +9,36 @@
         <item>Honda</item>
     </string-array>
 
-    <string-array name="model">
+    <string-array name="model_BMW">
         <item>e36</item>
         <item>e30</item>
         <item>e92</item>
         <item>x5</item>
         <item>g82</item>
+    </string-array>
+    <string-array name="model_Prosiak">
         <item>911</item>
         <item>Cayen</item>
+    </string-array>
+    <string-array name="model_Wieswagen">
         <item>Touareg</item>
         <item>Golf4</item>
         <item>Golf2</item>
         <item>Golf7</item>
+    </string-array>
+    <string-array name="model_Merol">
         <item>SLS</item>
         <item>SLR</item>
         <item>r129</item>
         <item>s600</item>
         <item>w124</item>
+    </string-array>
+    <string-array name="model_Audi">
         <item>a6c6</item>
         <item>quattro</item>
         <item>80coupe</item>
-        <item>100</item>
+        <item>100</item></string-array>
+    <string-array name="model_Honda">
         <item>s2000</item>
         <item>civic</item>
         <item>accord</item>
