@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">auta</string>
+    <string-array name="marka">
+        <item>BMW</item>
+        <item>Mercedes</item>
+        <item>Audi</item>
+        <item>Porsche</item>
+        <item>Volkswagen</item>
+        <item>Honda</item>
+    </string-array>
+
+    <string-array name="model">
+        <item>e36</item>
+        <item>e30</item>
+        <item>e92</item>
+        <item>x5</item>
+        <item>g82</item>
+        <item>911</item>
+        <item>Cayen</item>
+        <item>Touareg</item>
+        <item>Golf4</item>
+        <item>Golf2</item>
+        <item>Golf7</item>
+        <item>SLS</item>
+        <item>SLR</item>
+        <item>r129</item>
+        <item>s600</item>
+        <item>w124</item>
+        <item>a6c6</item>
+        <item>quattro</item>
+        <item>80coupe</item>
+        <item>100</item>
+        <item>s2000</item>
+        <item>civic</item>
+        <item>accord</item>
+        <item>prelude</item>
+    </string-array>
 </resources>
